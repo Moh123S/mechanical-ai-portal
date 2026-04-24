@@ -4,3 +4,8 @@ autopep8
 
 # App
 flask
+streamlit
+langchain
+langchain-core
+backend
+pinecone-client
